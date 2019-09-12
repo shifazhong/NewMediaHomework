@@ -1,2 +1,3 @@
 # NewMediaHomework
-Homework
+Press a to draw
+give more instructions
